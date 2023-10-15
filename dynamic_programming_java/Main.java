@@ -7,9 +7,9 @@ import java.util.HashMap;
 public class Main {
     public static void main(String[] args) {
         /*
-           ********************************
-           * Testing Memoization Function *
-           ********************************
+           *********************************
+           * Testing Memoization Functions *
+           *********************************
          */
 
         // Fib
@@ -72,7 +72,7 @@ public class Main {
 
         /*
            ********************************
-           * Testing Tabulation Function. *
+           * Testing Tabulation Functions *
            ********************************
         */
 
